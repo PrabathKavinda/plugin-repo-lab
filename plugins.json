@@ -3,10 +3,19 @@
     "name": "Sample Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
   }
+
   ,
   
   {
     "name": "Prabath Plugin",
     "entry": "./plugins/prabath-plugin/plugin.js"
+
+  }
+  ,
+
+  {
+    "name": "New Plugin",
+    "entry": "./plugins/new-plugin/plugin.js"
+
   }
 ]
