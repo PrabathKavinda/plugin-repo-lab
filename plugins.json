@@ -3,4 +3,11 @@
     "name": "Sample Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
   }
+  
+  ,
+
+  {
+    "name": "New Plugin",
+    "entry": "./plugins/new-plugin/plugin.js"
+  }
 ]
